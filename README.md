@@ -1,5 +1,13 @@
 Hi 👋 My name is Owusu Vincent
-==============================Backend Developer-----------------ALX Software Engineer Student & University of Ghana B.Sc. IT Student | Eager to Learn and Grow in the Software Engineering Field.* 🌍  I'm based in Accra Ghana* 🖥️  See my portfolio at [MyPortfolio](http://https://owusuvincent.wixsite.com/owusuvincent)* ✉️  You can contact me at [gramerpro09@gmail.com](mailto:gramerpro09@gmail.com)* 🧠  I'm learning ALX Software Engineer Student & University of Ghana B.Sc. IT Student | Eager to Learn and Grow in the Software Engineering Field.* ⚡  #Do Hard Things
+==============================
+Backend Developer
+-----------------
+ALX Software Engineer Student & University of Ghana B.Sc. IT Student | Eager to Learn and Grow in the Software Engineering Field.
+* 🌍  I'm based in Accra Ghana*
+* 🖥️  See my portfolio at [MyPortfolio](http://https://owusuvincent.wixsite.com/owusuvincent)*
+* ✉️  You can contact me at [gramerpro09@gmail.com](mailto:gramerpro09@gmail.com)*
+* 🧠  I'm learning ALX Software Engineer Student & University of Ghana B.Sc. IT Student | Eager to Learn and Grow in the Software Engineering Field.*
+* ⚡  #Do Hard Things
 
 <a href="https://www.github.com/dem0saic" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dem0saic?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/@mosaic_de42374" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitter/follow/@mosaic_de42374?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
