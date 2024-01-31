@@ -17,7 +17,7 @@ ALX Software Engineer Student & University of Ghana B.Sc. IT Student | Eager to 
 <a href="https://www.x.com/@mosaic_de42374" target="_blank" rel="noreferrer">
   <imgsrc="https://img.shields.io/twitter/follow/@mosaic_de42374?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
 </a>
-<img align="right" alt="coding" width="450" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"/>
+<img align="right" alt="coding" height="270" width="450" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"/>
 
 
 Skills
