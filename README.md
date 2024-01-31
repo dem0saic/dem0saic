@@ -1,4 +1,4 @@
-![logo](https://github.com/dem0saic/dem0saic/blob/main/banner.jpg)
+<img align="center" alt="logo" height="120" src="https://github.com/dem0saic/dem0saic/blob/main/banner.jpg"/>
 
 Hi 👋 My name is Owusu Vincent
 ==============================
