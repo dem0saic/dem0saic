@@ -1,14 +1,14 @@
 <img align="center" alt="logo" height="270" width="950" src="https://github.com/dem0saic/dem0saic/blob/main/banner.jpg"/>
 
-Hi 👋 My name is Owusu Vincent
+Hi 👋 My name is Vincent Owusu Badu
 ==============================
-Backend Developer
+Cybersecurity Professional & Founder and CEO of SwiftStay GH
 -----------------
-ALX Software Engineer Student & University of Ghana B.Sc. IT Student | Eager to Learn and Grow in the Software Engineering Field.
+Cisco Network Academy Instructor & University of Ghana B.Sc. IT Student | Eager to Learn and Grow in the Cybersecurity and Digital Innovation space.
 * 🌍  I'm based in Accra Ghana*
 * 🖥️  See my portfolio at [MyPortfolio](http://https://owusuvincent.wixsite.com/owusuvincent)*
 * ✉️  You can contact me at [gramerpro09@gmail.com](mailto:gramerpro09@gmail.com)*
-* 🧠  I'm learning ALX Software Engineer Student & University of Ghana B.Sc. IT Student | Eager to Learn and Grow in the Software Engineering Field.*
+* 🧠  I'm learning ALX Software cybersecurity Student & University of Ghana B.Sc. IT Student | Eager to Learn and Grow in the Cybersecurity and Digital Innovation space.*
 * ⚡  #Do Hard Things
 
 <a href="https://www.github.com/dem0saic" target="_blank" rel="noreferrer">
