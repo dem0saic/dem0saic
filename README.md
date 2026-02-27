@@ -6,8 +6,7 @@ Cybersecurity Professional & Founder and CEO of SwiftStay GH
 -----------------
 Cisco Network Academy Instructor & University of Ghana B.Sc. IT Student | Eager to Learn and Grow in the Cybersecurity and Digital Innovation space.
 * 🌍  I'm based in Accra Ghana*
-* 🖥️  See my portfolio at [MyPortfolio](http://https://owusuvincent.wixsite.com/owusuvincent)*
-* ✉️  You can contact me at [gramerpro09@gmail.com](mailto:gramerpro09@gmail.com)*
+* ✉️  You can contact me at [owusu032vincent@gmail.com](mailto:gramerpro09@gmail.com)*
 * 🧠  I'm learning ALX Software cybersecurity Student & University of Ghana B.Sc. IT Student | Eager to Learn and Grow in the Cybersecurity and Digital Innovation space.*
 * ⚡  #Do Hard Things
 
