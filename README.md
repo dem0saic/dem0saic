@@ -1,45 +1,206 @@
-<img align="center" alt="logo" height="270" width="950" src="https://github.com/dem0saic/dem0saic/blob/main/banner.jpg"/>
+<!-- HERO BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Vincent%20Owusu%20Badu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Instructor%20%C2%B7%20Ethical%20Hacker%20%C2%B7%20Python%20Engineer&descAlignY=58&descAlign=50" alt="banner" />
+</div>
 
-Hi 👋 My name is Vincent Owusu Badu
-==============================
-Cybersecurity Professional & Founder and CEO of SwiftStay GH
------------------
-Cisco Network Academy Instructor & University of Ghana B.Sc. IT Student | Eager to Learn and Grow in the Cybersecurity and Digital Innovation space.
-* 🌍  I'm based in Accra Ghana*
-* ✉️  You can contact me at [owusu032vincent@gmail.com](mailto:gramerpro09@gmail.com)*
-* 🧠  I'm learning ALX Software cybersecurity Student & University of Ghana B.Sc. IT Student | Eager to Learn and Grow in the Cybersecurity and Digital Innovation space.*
-* ⚡  #Do Hard Things
+<!-- TERMINAL-STYLE TYPING ANIMATION -->
+<div align="center">
+  <a href="https://github.com/dem0saic">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=00FF94&center=true&vCenter=true&width=720&height=70&lines=%24+whoami;%E2%9E%9C+Vincent+Owusu+Badu+%7C+Cybersecurity+Instructor;%24+cat+skills.txt;%E2%9E%9C+Python+%C2%B7+Linux+%C2%B7+AWS+%C2%B7+Ethical+Hacking+%C2%B7+LLM+Data;%24+./mission.sh;%E2%9E%9C+Building+secure%2C+intelligent+systems+for+Africa" alt="Typing SVG" />
+  </a>
+</div>
 
-<a href="https://www.github.com/dem0saic" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/dem0saic?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
-<a href="https://www.x.com/@mosaic_de42374" target="_blank" rel="noreferrer">
-  <imgsrc="https://img.shields.io/twitter/follow/@mosaic_de42374?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-</a>
-<img align="right" alt="coding" height="270" width="450" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"/>
+<!-- PROFILE BADGES -->
+<div align="center">
+  <a href="https://github.com/dem0saic">
+    <img src="https://komarev.com/ghpvc/?username=dem0saic&label=PROFILE+VIEWS&color=00FF94&style=for-the-badge&labelColor=0d1117" alt="Profile views" />
+  </a>
+  <a href="https://github.com/dem0saic?tab=followers">
+    <img src="https://img.shields.io/github/followers/dem0saic?label=FOLLOWERS&style=for-the-badge&color=00FF94&labelColor=0d1117" alt="Followers" />
+  </a>
+  <a href="https://twitter.com/mosaic_de42374">
+    <img src="https://img.shields.io/twitter/follow/mosaic_de42374?label=FOLLOW&style=for-the-badge&color=00FF94&labelColor=0d1117" alt="Twitter" />
+  </a>
+</div>
 
-Skills
+<br/>
+
+<!-- ABOUT -->
+<h2 align="left">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> &nbsp; About Me
+</h2>
+
+```yaml
+identity:
+  name:        Vincent Owusu Badu
+  alias:       dem0saic
+  role:        Cybersecurity Instructor & IT Student
+  organization:
+    - MAKATOB IT Securities (Instructor, 100+ students)
+    - SwiftStay GH (Founder)
+  location:    Accra, Ghana 🇬🇭
+  edu:         BSc Information Technology — University of Ghana (2026)
+
+mission: "Build secure, intelligent systems for Africa."
+
+current_focus:
+  - 🔭 Python automation tools & AI-driven security research
+  - 🎓 ALX Africa Cybersecurity Nanodegree (2025–2026)
+  - ⚔️  Red Team operations · MITRE ATT&CK · Cloud Security
+  - 🤖 LLM data pipelines & AI security analysis
+
+ask_me_about:
+  [ ethical hacking, python scripting, aws, llm data, security education ]
+
+contact: owusu032vincent@gmail.com
+motto:   "Do Hard Things." ⚡
+```
+
+<br/>
+
+<!-- TECH STACK -->
+<h2 align="left">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> &nbsp; Tech Stack & Arsenal
+</h2>
+
+<h4>💻 Languages, Frameworks & Cloud</h4>
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,bash,django,mysql,linux,aws,git,github,vscode,markdown&perline=10" alt="Tech stack" />
+  </a>
+</p>
 
-Socials
+<h4>🛡️ Cybersecurity & Networking</h4>
 
-<p align="left"> <a href="https://discord.com/users/dem0saik" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/dem0saic" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/owusu-vincent-10b830286" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/@mosaic_de42374" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-BB0000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+</p>
 
-Badges
+<br/>
 
-<b>My GitHub Stats</b>
+<!-- CERTIFICATIONS -->
+<h2 align="left">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LXC/giphy.gif" width="28" /> &nbsp; Certifications
+</h2>
 
-<a href="http://www.github.com/dem0saic"><img src="https://github-readme-stats.vercel.app/api?username=dem0saic&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dem0saic's GitHub stats" /></a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h4>🛡️ Cybersecurity</h4>
+      <ul align="left">
+        <li>Cisco CyberOps Associate</li>
+        <li>Cisco Ethical Hacker</li>
+        <li>Cisco Junior Cybersecurity Analyst</li>
+        <li>Cisco Introduction to Cybersecurity</li>
+        <li>CyberWarFare Labs — Red Team Essentials (MITRE ATT&CK)</li>
+        <li>Antisyphon — How to Train Your AI Security Analyst</li>
+        <li>TryHackMe — Pre-Security & Advent of Cyber 2024</li>
+      </ul>
+    </td>
+    <td align="center" width="50%">
+      <h4>☁️ Cloud · Dev · AI</h4>
+      <ul align="left">
+        <li>AmaliTech AWS reStart Programme</li>
+        <li>Algorithm Institute Studio — Backend Developer</li>
+        <li>Anthropic — AI Fluency for Students</li>
+        <li>Anthropic — Claude Code in Action</li>
+        <li>Anthropic — Introduction to Agent Skills</li>
+        <li>ALX Africa — Cybersecurity Nanodegree (in progress)</li>
+        <li>TCM Security — Soft Skills for the Job Market</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<a href="http://www.github.com/dem0saic"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dem0saic&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<br/>
 
-<a href="http://www.github.com/dem0saic"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=dem0saic&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- GITHUB STATS -->
+<h2 align="left">
+  <img src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" width="28" /> &nbsp; GitHub Analytics
+</h2>
 
-<a href="https://github.com/dem0saic" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dem0saic&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<img align="right" alt="coding" height="360" width="450" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dem0saic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=445" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=dem0saic&theme=tokyonight&hide_border=true&card_width=445" alt="GitHub Streak" />
+</div>
 
-<b>Top Repositories</b>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dem0saic&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=900" alt="Top Languages" />
+</div>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dem0saic&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="98%" />
+</div>
+
+<!-- TROPHIES -->
+<h2 align="left">
+  <img src="https://media.giphy.com/media/CaS9NNso512WJ4po0t/giphy.gif" width="28" /> &nbsp; Trophy Case
+</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dem0saic&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
+</div>
+
+<br/>
+
+<!-- SNAKE ANIMATION -->
+<h2 align="left">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28" /> &nbsp; Contribution Snake
+</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dem0saic/dem0saic/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
+<!-- CONNECT -->
+<h2 align="left">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" /> &nbsp; Let's Connect
+</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/owusuvincent" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/mosaic_de42374" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:owusu032vincent@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://discord.com/users/dem0saik" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://tryhackme.com/" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
+  </a>
+  <a href="https://app.hackthebox.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB" />
+  </a>
+</p>
+
+<br/>
+
+<!-- QUOTE -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
+
+<br/>
+
+<!-- FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Do%20Hard%20Things.&fontSize=24&fontColor=00FF94&animation=twinkling&fontAlignY=70" alt="footer" />
+</div>
