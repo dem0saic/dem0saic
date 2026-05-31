@@ -6,7 +6,7 @@
 <!-- TERMINAL-STYLE TYPING ANIMATION -->
 <div align="center">
   <a href="https://github.com/dem0saic">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=00FF94&center=true&vCenter=true&width=720&height=70&lines=%24+whoami;%E2%9E%9C+Vincent+Owusu+Badu+%7C+Cybersecurity+Instructor;%24+cat+skills.txt;%E2%9E%9C+Python+%C2%B7+Linux+%C2%B7+AWS+%C2%B7+Ethical+Hacking+%C2%B7+LLM+Data;%24+./mission.sh;%E2%9E%9C+Building+secure%2C+intelligent+systems+for+Africa" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=600&color=00FF94&center=true&vCenter=true&width=720&height=70&lines=%24+whoami;%E2%9E%9C+Vincent+Owusu+Badu+%7C+Cybersecurity+Instructor;%24+cat+skills.txt;%E2%9E%9C+Python+%C2%B7+Linux+%C2%B7+AWS+%C2%B7+Ethical+Hacking+%C2%B7+LLM+Data;%24+ai+--pair;%E2%9E%9C+Vibe+coding+with+Claude+Code+%26+Gemini+Antigravity;%24+.%2Fmission.sh;%E2%9E%9C+Building+secure%2C+intelligent+systems+for+Africa" alt="Typing SVG" />
   </a>
 </div>
 
@@ -48,9 +48,11 @@ current_focus:
   - 🎓 ALX Africa Cybersecurity Nanodegree (2025–2026)
   - ⚔️  Red Team operations · MITRE ATT&CK · Cloud Security
   - 🤖 LLM data pipelines & AI security analysis
+  - ⚡ Vibe coding with Claude Code & Gemini Antigravity
 
 ask_me_about:
-  [ ethical hacking, python scripting, aws, llm data, security education ]
+  [ ethical hacking, python scripting, aws, llm data,
+    security education, ai-assisted dev, agentic coding ]
 
 contact: owusu032vincent@gmail.com
 motto:   "Do Hard Things." ⚡
@@ -84,6 +86,17 @@ motto:   "Do Hard Things." ⚡
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-BB0000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+</p>
+
+<h4>🤖 AI-Assisted Development</h4>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20Antigravity-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vibe%20Coding-00FF94?style=for-the-badge&logo=visualstudiocode&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge&logoColor=white" />
 </p>
 
 <br/>
@@ -135,7 +148,7 @@ motto:   "Do Hard Things." ⚡
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dem0saic&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=900" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dem0saic&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <!-- ACTIVITY GRAPH -->
@@ -149,7 +162,7 @@ motto:   "Do Hard Things." ⚡
 </h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dem0saic&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dem0saic&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </div>
 
 <br/>
