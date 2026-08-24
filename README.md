@@ -32,7 +32,7 @@
 
 ```yaml
 identity:
-  name:        Vincent Owusu Badu
+  name:        Vincent Owusu
   alias:       dem0saic
   role:        Cybersecurity Instructor & IT Student
   organization:
