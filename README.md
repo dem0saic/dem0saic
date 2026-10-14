@@ -1,6 +1,6 @@
 <!-- HERO BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Vincent%20Owusu%20Badu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Instructor%20%C2%B7%20Ethical%20Hacker%20%C2%B7%20Python%20Engineer&descAlignY=58&descAlign=50" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Vincent%20Owusu&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Instructor%20%C2%B7%20Ethical%20Hacker%20%C2%B7%20Python%20Engineer&descAlignY=58&descAlign=50" alt="banner" />
 </div>
 
 <!-- TERMINAL-STYLE TYPING ANIMATION -->
